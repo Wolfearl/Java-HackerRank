@@ -2,7 +2,7 @@ package Problems;
 
 import java.util.Scanner;
 
-public class Java_Stdin_and_Stdout_2 {
+public class JavaStdinAndStdout2 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

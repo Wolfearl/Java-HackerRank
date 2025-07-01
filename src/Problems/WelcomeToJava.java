@@ -1,6 +1,6 @@
 package Problems;
 
-public class welcome_to_Java {
+public class WelcomeToJava {
 
     public static void main(String[] args) {
         System.out.println("Hello, World.");

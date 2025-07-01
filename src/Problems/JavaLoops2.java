@@ -2,7 +2,7 @@ package Problems;
 
 import java.util.Scanner;
 
-public class Java_Loops_2 {
+public class JavaLoops2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int t = in.nextInt();

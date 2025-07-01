@@ -2,7 +2,7 @@ package Problems;
 
 import java.util.Scanner;
 
-public class Java_if_else {
+public class JavaIfElse {
 
     private static final Scanner scanner = new Scanner(System.in);
 

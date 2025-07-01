@@ -2,7 +2,7 @@ package Problems;
 
 import java.util.Scanner;
 
-public class Java_End_of_file {
+public class JavaEndOfFile {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int i = 1;

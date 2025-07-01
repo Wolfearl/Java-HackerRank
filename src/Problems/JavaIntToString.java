@@ -3,7 +3,7 @@ package Problems;
 import java.security.Permission;
 import java.util.Scanner;
 
-public class Java_Int_to_String {
+public class JavaIntToString {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

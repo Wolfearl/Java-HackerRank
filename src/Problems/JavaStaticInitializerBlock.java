@@ -2,7 +2,7 @@ package Problems;
 
 import java.util.Scanner;
 
-public class Java_Static_Initializer_Block {
+public class JavaStaticInitializerBlock {
 
     static int B, H;
     static boolean flag = true;

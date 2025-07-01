@@ -1,7 +1,7 @@
 package Problems;
 import java.util.Scanner;
 
-public class Java_Substring_Comparisons {
+public class JavaSubstringComparisons {
 
     public static String getSmallestAndLargest(String s, int k) {
         String smallest = "";

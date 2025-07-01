@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 import java.text.NumberFormat;
 
-public class Java_Currency_Formatter {
+public class JavaCurrencyFormatter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double payment = scanner.nextDouble();
